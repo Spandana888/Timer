@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #3c3c3c;
+    padding:40px 20px;
+    text-align: center;
+    border-radius: 50px;
+ }
+ .container button{
+    background-color: #ffffff;
+    padding:10px 20px;
+    border-radius: 50px;
+    border:none;
+    background-color: #ffffff;
+    margin: 0 5px;
+}
+.container p{
+    padding:10px;
+}
+.button{
+    padding:10px;
+} 
